@@ -49,7 +49,7 @@ with open("ivy/_version.py") as f:
     exec(f.read(), __version__)
 
 setup(
-    name="ivy",
+    name="ivy-testing-release",
     version=__version__,
     author="Unify",
     author_email="hello@unify.ai",
